@@ -74,17 +74,29 @@ font-size: 18px;
 font-weight: 400;
 background-color: #eaeaea;	
 }
-.product pk{
+.product p{
 	color:#707070 ;
 	font-size: 14px;
 	font-style:italic;
 	line-height: 16px;
 }
-.product pr{
+.product li{
 	color:#484343 ;
 	font-size: 16px;
 	font-style:italic;
 	font-weight: 400;
 	line-height: 24px;
 	text-align:left;
+}
+.image img{
+	width: 435px;
+	margin-top: 5px;
+	float: left;
+}
+.price h1{
+	font-size: 24px;
+}
+.product{
+	float: center;
+	margin-left:439px;
 }
