@@ -62,9 +62,7 @@ li{
 #message{
 	height: 123px;
 }
-.adress img{
-	width: 500px;
-}
+
 .types h1{
 	margin-left: 42px;
 }
@@ -92,6 +90,12 @@ background-color: #eaeaea;
 	width: 435px;
 	margin-top: 5px;
 	float: left;
+}
+.image-prod img{
+        width: 435px;
+	margin-top: 5px;
+	float: left;
+        solid:#ffffff;
 }
 .price h1{
 	font-size: 24px;
